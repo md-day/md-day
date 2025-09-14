@@ -1,1 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Rome&pause=1000&color=0BF704&multiline=true&width=1000&height=200&lines=I+am+an+amateur+web+developer%2C+graphic+designer%2C+writer%2C+and+filmmaker;I+am+certified+in+The+Fundamentals+Of+HTML%2C+CSS%2C+And+Javascript+and+Advanced+Javascript;As+well+as+Adobe+Photoshop%2C+Adobe+Premier+Pro%2C+and+Adobe+Video+Design;(Just+to+brag)+I+graduated+High+School+a+year+early+with+A-B+Honor+roll+and+a+3.7%2B+GPA;I+run+multiple+YouTube+channels+that+I+love+and+post+for+my+different+contents;I+hope+you+enjoy+my+coding+and+website+nonsense+here%2C+go+check+out+my+channel!!)](https://git.io/typing-svg)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-day&theme=github_dark)
